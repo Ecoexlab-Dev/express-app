@@ -15,7 +15,8 @@
 		"paths": {
 			"@src/*": [ "src/*"] ,
 			"@model": [ "src/models/index.ts" ],
-			"@enums": [ "src/enums/index.ts" ]
+			"@enums": [ "src/enums/index.ts" ],
+            "@decorators": [ "src/decorators/index.ts" ]
 		}
 	},
 	"files": [ "src/app.ts" ],
